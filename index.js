@@ -1,8 +1,29 @@
 const fs = require("fs");
+const https = require("https");
 
 const extraTag = "Sea Of Terror";
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
+
+function fetchJson(url) {
+  return new Promise((resolve, reject) => {
+    https.get(url, {
+      headers: {
+        'user-agent': 'SeaOfTerror/1.0.0',
+      }
+    }, (res) => {
+      let data = '';
+      res.on('data', (chunk) => data += chunk);
+      res.on('end', () => {
+        try {
+          resolve(JSON.parse(data));
+        } catch (e) {
+          reject(e);
+        }
+      });
+    }).on('error', reject);
+  });
+}
 
 async function recoverPlugin(internalName) {
   if (!fs.existsSync("./repo.json")) {
@@ -13,7 +34,7 @@ async function recoverPlugin(internalName) {
   const oldRepo = JSON.parse(fs.readFileSync("./repo.json", "utf8"));
   const plugin = oldRepo.find((x) => x.InternalName === internalName);
   if (!plugin) {
-    console.error(`!!! ${plugin} not found in old repo`);
+    console.error(`!!! ${internalName} not found in old repo`);
     process.exit(1);
   }
 
@@ -23,16 +44,12 @@ async function recoverPlugin(internalName) {
 
 async function doRepo(url, plugins) {
   console.log(`Fetching ${url}...`);
-  const repo = await fetch(url, {
-      headers: {
-              'user-agent': 'SeaOfTerror/1.0.0',
-      },
-  }).then((res) => res.json());
+  const repo = await fetchJson(url);
 
   for (const internalName of plugins) {
     const plugin = repo.find((x) => x.InternalName === internalName);
     if (!plugin) {
-      console.warn(`!!! ${plugin} not found in ${url}`);
+      console.warn(`!!! ${internalName} not found in ${url}`);
       recoverPlugin(internalName);
       continue;
     }
