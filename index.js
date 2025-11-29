@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const extraTag = "Sea Of Stars";
+const extraTag = "Sea Of Terror";
 const reposMeta = JSON.parse(fs.readFileSync("./meta.json", "utf8"));
 const final = [];
 
@@ -25,7 +25,7 @@ async function doRepo(url, plugins) {
   console.log(`Fetching ${url}...`);
   const repo = await fetch(url, {
       headers: {
-              'user-agent': 'SeaOfStars/1.0.0',
+              'user-agent': 'SeaOfTerror/1.0.0',
       },
   }).then((res) => res.json());
 

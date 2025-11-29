@@ -23,7 +23,7 @@
     "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/1.5.1.8/Penumbra.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
     "Tags": [
-      "Sea Of Stars"
+      "Sea Of Terror"
     ]
   },
   {
@@ -42,7 +42,7 @@
       "Customization",
       "Design",
       "Character",
-      "Sea Of Stars"
+      "Sea Of Terror"
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.5.1.5",
@@ -87,7 +87,7 @@
       "Appearance",
       "Character",
       "Aether Tools",
-      "Sea Of Stars"
+      "Sea Of Terror"
     ]
   },
   {
@@ -109,7 +109,7 @@
     "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.11.0.18.zip",
     "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.11.0.18.zip",
     "Tags": [
-      "Sea Of Stars"
+      "Sea Of Terror"
     ]
   },
   {
@@ -136,7 +136,7 @@
       "modding",
       "penumbra",
       "textools",
-      "Sea Of Stars"
+      "Sea Of Terror"
     ],
     "TestingAssemblyVersion": "4.5.1.0",
     "TestingChangelog": "- Undo last change",
@@ -157,7 +157,7 @@
       "gpose",
       "posing",
       "ktisis",
-      "Sea Of Stars"
+      "Sea Of Terror"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
     "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.29/latest.zip",
@@ -196,7 +196,7 @@
       "cutscene",
       "utility",
       "tools",
-      "Sea Of Stars"
+      "Sea Of Terror"
     ]
   },
   {
@@ -222,7 +222,7 @@
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/DynamicBridge/main/DynamicBridge/images/icon.png",
     "Tags": [
-      "Sea Of Stars"
+      "Sea Of Terror"
     ]
   },
   {
@@ -240,7 +240,7 @@
     "DownloadLinkUpdate": "https://github.com/kawaii/Moodles/releases/download/1.0.0.53/Moodles.zip",
     "IconUrl": "https://raw.githubusercontent.com/kawaii/Moodles/main/images/icon.png",
     "Tags": [
-      "Sea Of Stars"
+      "Sea Of Terror"
     ]
   }
 ]

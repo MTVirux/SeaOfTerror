@@ -1,15 +1,15 @@
-# Sea of Stars
+# Sea of Terror
 
 This suite collects modding-, customization- and posing-related Dalamud plugins for FFXIV.
 
-All contained plugins have agreed to be hosted in this collection - Sea of Stars also does not provide any plugins itself, it just provides combined access to them in form of a single Dalamud Plugin Repository.
+This is the fork of the Dalamud plugin repo automations for SeaOfStars for my plugins.
 
 ## Installing
 - Enter `/xlsettings` in the chat window and go to the Experimental tab in the opening window.
 - **Skip below the DevPlugins section to the Custom Plugin Repositories section.**
 - Copy and paste the repo.json link into the first free text input field.
 ```
-https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json
+https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json
 ```
 - Click on the + button and make sure the checkmark beside the new field is set afterwards.
 - **Click on the Save-icon in the bottom right.**
@@ -17,63 +17,13 @@ https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json
 Following these steps, you should be able to see all contained plugins in the Available Plugins tab in the Dalamud Plugin Installer.
 No Plugins will be installed, you have just made them available. You can now select which of these plugins you actually want to install.
 
-## [Penumbra](https://github.com/xivdev/Penumbra)
-- The mod loader and base for the modding ecosystem using Dalamud plugins. 
-- Maintained and developed mainly by Ottermandias. 
-- Support can be found on [Penumbras Discord](https://discord.gg/kVva7DHV4r).
+## [Glamourer](https://github.com/MTVirux/Glamourer) [(Original Repo by Ottermandias)](https://github.com/Ottermandias/Glamourer)
+Modifications from the original include:
+- Wildcard support
+- Unlocked cheat mode -> Renamed to Fun Modes and toggles have been added
+- Preview on equipment on mouse hover from the combo boxes
 
-## [Heliosphere](https://heliosphere.app)
-- A mod archive site with accompanying plugin interfacing directly with Penumbra to make installing and updating mods easy and simple. 
-- Developed by Anna. 
-- Support can be found on the [Heliosphere Forums](https://forums.heliosphere.app/forums/support.6/).
-- This plugin requires Penumbra.
-
-## [Glamourer](https://github.com/Ottermandias/Glamourer)
-- A plugin to change and save character appearances, including gear and customization. It can also automatically apply saved appearances based on conditions. 
-- Developed by Ottermandias. 
-- Support can be found on [Penumbras Discord](https://discord.gg/kVva7DHV4r).
-- This plugin requires Penumbra.
-
-## [Customize+](https://github.com/Aether-Tools/CustomizePlus)
-- A plugin to scale your characters body parts according to your desires. 
-- Maintained and developed by Risa.
-- Support can be found on [Aetherworks Discord](https://discord.gg/KvGJCCnG8t).
-
-## [SimpleHeels](https://github.com/Caraxi/SimpleHeels)
-- A plugin to offset and adjust your characters height according when wearing specific shoes according to their heels. 
-- Developed by Caraxi, inspired by LeonBlade.
-- Support can be found on [Caraxi's Discord](https://discord.gg/eXx7HdMkrU).
-
-## [Ktisis](https://github.com/ktisis-tools/Ktisis)
-- A plugin to manipulate your character and their positioning, stance and animation while posing in GPose. 
-- Developed mainly by Chirp. 
-- Support can be found on [Ktisis' Discord](https://discord.gg/kUG3W8B8Ny).
-
-## [Brio](https://github.com/Etheirys/Brio)
-- A plugin to create additional characters and give you more options during posing in GPose. 
-- Maintained and developed by Minmoose, originally developed by Asgard.
-- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t).
-
-## [Dynamic Bridge](https://github.com/Limiana/DynamicBridgeStandalone)
-- A plugin to automate certain appearance changes through rule-based presets.
-- Automation options for Glamourer, Customize+ and Honorific.
-- Maintained and developed by Limiana and Asuna Tsuki.
-- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t).
-
-## [Moodles](https://github.com/kawaii/Moodles/)
-- Design and apply your own status effects with custom formatting, durations, and other accoutrements.
-- Status effects can be synchronized via Mare Synchronos.
-- Maintained by Glyceri, Originally Developed by kawaii. 
-- Support can be found on the [Aetherworks Discord](https://discord.gg/KvGJCCnG8t) or via [github issues](https://github.com/kawaii/Moodles/issues).
-
-# Discontinued
-
-## Palette+
-- A plugin to improve color customization beyond the game-provided color options. 
-- Developed by Chirp. 
-- Functionality subsumed by Glamourer.
-
-## Mare Synchronos
-- A plugin to synchronize and download mods and appearances between friends automatically. 
-- Developed by darkarchon. 
-- This plugin requires Penumbra and Glamourer, and interfaces with Customize+, Palette+, SimpleHeels and the Dalamud-official-repo plugin Honorific.
+## [Marketboard](https://github.com/MTVirux/MarketBoardPlugin) [(Original Repo by fmauNeko)](https://github.com/fmauNeko/MarketBoardPlugin)
+Modifications from the original:
+- Lifestream integration
+    - Clicking a listing will teleport you to that world's marketboard

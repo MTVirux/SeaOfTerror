@@ -1,38 +1,10 @@
 [
   {
-    "repo": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
-    "plugins": ["Penumbra"]
-  },
-  {
-    "repo": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
+    "repo": "https://raw.githubusercontent.com/MTVirux/Glamourer/main/repo.json",
     "plugins": ["Glamourer"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
-    "plugins": ["CustomizePlus"]
-  },
-  {
-    "repo": "https://repo.caraxian.com",
-    "plugins": ["SimpleHeels"]
-  },
-  {
-    "repo": "https://repo.heliosphere.app",
-    "plugins": ["heliosphere-plugin"]
-  },
-  {
-    "repo": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
-    "plugins": ["Ktisis"]
-  },
-  {
-    "repo": "https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json",
-    "plugins": ["Brio"]
-  },
-  {
-    "repo": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
-    "plugins": ["DynamicBridge"]
-  },
-  {
-    "repo": "https://raw.githubusercontent.com/kawaii/Moodles/main/repo.json",
-    "plugins": ["Moodles"]
+    "repo": "https://raw.githubusercontent.com/MTVirux/MarketBoardPlugin/main/repo.json",
+    "plugins": ["Marketboard"]
   }
 ]
