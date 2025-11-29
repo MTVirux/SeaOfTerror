@@ -1,8 +1,6 @@
 # Sea of Terror
 
-This suite collects modding-, customization- and posing-related Dalamud plugins for FFXIV.
-
-This is the fork of the Dalamud plugin repo automations for SeaOfStars for my plugins.
+This is a fork of the Dalamud plugin repo automations of SeaOfStars for my plugins.
 
 ## Installing
 - Enter `/xlsettings` in the chat window and go to the Experimental tab in the opening window.
@@ -17,13 +15,13 @@ https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json
 Following these steps, you should be able to see all contained plugins in the Available Plugins tab in the Dalamud Plugin Installer.
 No Plugins will be installed, you have just made them available. You can now select which of these plugins you actually want to install.
 
-## [Glamourer](https://github.com/MTVirux/Glamourer) [(Original Repo by Ottermandias)](https://github.com/Ottermandias/Glamourer)
+## [Glamourer](https://github.com/MTVirux/Glamourer) | [(Original Repo by Ottermandias)](https://github.com/Ottermandias/Glamourer)
 Modifications from the original include:
 - Wildcard support
 - Unlocked cheat mode -> Renamed to Fun Modes and toggles have been added
 - Preview on equipment on mouse hover from the combo boxes
 
-## [Marketboard](https://github.com/MTVirux/MarketBoardPlugin) [(Original Repo by fmauNeko)](https://github.com/fmauNeko/MarketBoardPlugin)
+## [Marketboard](https://github.com/MTVirux/MarketBoardPlugin) | [(Original Repo by fmauNeko)](https://github.com/fmauNeko/MarketBoardPlugin)
 Modifications from the original:
 - Lifestream integration
     - Clicking a listing will teleport you to that world's marketboard
