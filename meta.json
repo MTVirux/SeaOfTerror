@@ -4,7 +4,7 @@
     "plugins": ["Glamourer"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MTVirux/MarketBoardPlugin/main/repo.json",
+    "repo": "https://raw.githubusercontent.com/MTVirux/MarketBoardPlugin/develop/repo.json",
     "plugins": ["Marketboard"]
   }
 ]
