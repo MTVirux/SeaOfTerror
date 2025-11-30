@@ -46,7 +46,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "MarketTerror",
-    "AssemblyVersion": "1.11.0",
+    "AssemblyVersion": "1.0.0.5",
     "TestingAssemblyVersion": "1.0.0.5",
     "RepoUrl": "https://github.com/MTVirux/MarketBoardPlugin",
     "ApplicableVersion": "any",
