@@ -35,9 +35,9 @@
   },
   {
     "Author": "MTVirux",
-    "Name": "MarketBoardPlugin(PMB)",
-    "Punchline": "Custom build of the MarketBoardPlugin by MTVirux",
-    "Description": "Custom build of the MarketBoardPlugin by MTVirux. /pmb to open.",
+    "Name": "Market Terror",
+    "Punchline": "Custom build of MarketTerror by MTVirux",
+    "Description": "Custom build of MarketTerror by MTVirux. /pmb to open.",
     "Tags": [
       "market",
       "board",
@@ -45,7 +45,7 @@
       "market board",
       "Sea Of Terror"
     ],
-    "InternalName": "MarketBoardPlugin",
+    "InternalName": "MarketTerror",
     "AssemblyVersion": "1.11.0",
     "TestingAssemblyVersion": "1.11.0",
     "RepoUrl": "https://github.com/MTVirux/MarketBoardPlugin",
@@ -56,9 +56,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/MTVirux/MarketBoardPlugin/releases/latest/download/MarketBoardPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/MarketBoardPlugin/releases/latest/download/MarketBoardPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/MarketBoardPlugin/releases/latest/download/MarketBoardPlugin.zip",
+    "DownloadLinkInstall": "https://github.com/MTVirux/MarketBoardPlugin/releases/latest/download/MarketTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/MarketBoardPlugin/releases/latest/download/MarketTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/MarketBoardPlugin/releases/latest/download/MarketTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/MarketBoardPlugin/main/images/icon.png"
   }
 ]
