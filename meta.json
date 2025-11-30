@@ -1,7 +1,7 @@
 [
   {
     "repo": "https://raw.githubusercontent.com/MTVirux/Glamourer/main/repo.json",
-    "plugins": ["Glamourer"]
+    "plugins": ["GlamorousTerror"]
   },
   {
     "repo": "https://raw.githubusercontent.com/MTVirux/MarketBoardPlugin/develop/repo.json",
