@@ -19,8 +19,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "GlamorousTerror",
-    "AssemblyVersion": "1.0.0.14",
-    "TestingAssemblyVersion": "1.0.0.14",
+    "AssemblyVersion": "1.0.0.15",
+    "TestingAssemblyVersion": "1.0.0.15",
     "RepoUrl": "https://github.com/MTVirux/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -28,10 +28,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
-    "LastUpdate": 1764523525,
-    "DownloadLinkInstall": "https://github.com/MTVirux/Glamourer/releases/download/1.0.0.14/Glamourer.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/Glamourer/releases/download/1.0.0.14/Glamourer.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/Glamourer/releases/download/1.0.0.14/Glamourer.zip",
+    "LastUpdate": 1764526867,
+    "DownloadLinkInstall": "https://github.com/MTVirux/Glamourer/releases/download/1.0.0.15/Glamourer.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/Glamourer/releases/download/1.0.0.15/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/Glamourer/releases/download/1.0.0.15/Glamourer.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/Glamourer/main/images/icon.png"
   },
   {
