@@ -1,4 +1,4 @@
-name: Update Repo
+name: Repo Refresh
 on:
   schedule:
     - cron: "*/5 * * * *"
