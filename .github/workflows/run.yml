@@ -1,3 +1,4 @@
+name: Update Repo
 on:
   schedule:
     - cron: "*/5 * * * *"
