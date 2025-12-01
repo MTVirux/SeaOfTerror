@@ -20,7 +20,7 @@
     ],
     "InternalName": "GlamorousTerror",
     "AssemblyVersion": "1.0.1.0",
-    "TestingAssemblyVersion": "1.0.1.1",
+    "TestingAssemblyVersion": "1.0.1.2",
     "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -28,10 +28,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
-    "LastUpdate": 1764602062,
+    "LastUpdate": 1764606781,
     "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.0.1.0/GlamorousTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.0.1.0/GlamorousTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/testing_1.0.1.1/GlamorousTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/testing_1.0.1.2/GlamorousTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png"
   },
   {
