@@ -6,5 +6,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MTVirux/MarketBoardPlugin/develop/repo.json",
     "plugins": ["MarketTerror"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/repo.json",
+    "plugins": ["CrystalTerror"]
   }
 ]

@@ -25,3 +25,6 @@ Modifications from the original include:
 Modifications from the original:
 - Lifestream integration
     - Clicking a listing will teleport you to that world's marketboard
+
+## [Crystal Terror](https://github.com/MTVirux/CrystalTerror)
+Small inventory tracker plugin that shows counts of shards, crystals and clusters across your character and retainers. Use `/crystaline` or `/ct` to open the window in-game.
