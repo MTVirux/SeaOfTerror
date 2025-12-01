@@ -1,10 +1,10 @@
 [
   {
-    "repo": "https://raw.githubusercontent.com/MTVirux/Glamourer/main/repo.json",
+    "repo": "https://raw.githubusercontent.com/MTVirux/GlamourousTerror/main/repo.json",
     "plugins": ["GlamorousTerror"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MTVirux/MarketBoardPlugin/develop/repo.json",
+    "repo": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/repo.json",
     "plugins": ["MarketTerror"]
   },
   {
