@@ -15,13 +15,13 @@ https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json
 Following these steps, you should be able to see all contained plugins in the Available Plugins tab in the Dalamud Plugin Installer.
 No Plugins will be installed, you have just made them available. You can now select which of these plugins you actually want to install.
 
-## [Glamourer](https://github.com/MTVirux/Glamourer) | [(Original Repo by Ottermandias)](https://github.com/Ottermandias/Glamourer)
+## [Glamorous Terror](https://github.com/MTVirux/GlamorousTerror) | [(Original Repo by Ottermandias)](https://github.com/Ottermandias/Glamourer)
 Modifications from the original include:
 - Wildcard support
 - Unlocked cheat mode -> Renamed to Fun Modes and toggles have been added
 - Preview on equipment on mouse hover from the combo boxes
 
-## [Marketboard](https://github.com/MTVirux/MarketBoardPlugin) | [(Original Repo by fmauNeko)](https://github.com/fmauNeko/MarketBoardPlugin)
+## [Market Terror](https://github.com/MTVirux/MarketTerror) | [(Original Repo by fmauNeko)](https://github.com/fmauNeko/MarketBoardPlugin)
 Modifications from the original:
 - Lifestream integration
     - Clicking a listing will teleport you to that world's marketboard
