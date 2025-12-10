@@ -28,3 +28,6 @@ Modifications from the original:
 
 ## [Crystal Terror](https://github.com/MTVirux/CrystalTerror)
 Small inventory tracker plugin that shows counts of shards, crystals and clusters across your character and retainers. Use `/crystaline` or `/ct` to open the window in-game.
+
+## [Kaleidoscope](https://github.com/MTVirux/Kaleidoscope)
+????????????????????
