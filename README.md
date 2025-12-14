@@ -30,4 +30,4 @@ Modifications from the original:
 Small inventory tracker plugin that shows counts of shards, crystals and clusters across your character and retainers. Use `/crystaline` or `/ct` to open the window in-game.
 
 ## [Kaleidoscope](https://github.com/MTVirux/Kaleidoscope)
-????????????????????
+Financial and inventory tracking HUD for FFXIV
