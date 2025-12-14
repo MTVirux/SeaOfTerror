@@ -10,5 +10,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/repo.json",
     "plugins": ["CrystalTerror"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/repo.json",
+    "plugins": ["Kaleidoscope"]
   }
 ]
