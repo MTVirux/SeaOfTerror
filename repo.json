@@ -95,5 +95,36 @@
     "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.3.1.4/CrystalTerror.zip",
     "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/testing_1.3.1.6/CrystalTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png"
+  },
+  {
+    "Author": "MTVirux",
+    "Name": "Kaleidoscope",
+    "Punchline": "May the line go up :prayge:",
+    "Description": "DM @mtvirux on discord for assistance or bug reports.",
+    "Tags": [
+      "Terror",
+      "Tools",
+      "Kaleidoscope",
+      "Gil",
+      "Money",
+      "Tracker",
+      "Finance",
+      "Sea Of Terror"
+    ],
+    "InternalName": "Kaleidoscope",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 69,
+    "LastUpdate": 1765739304,
+    "DownloadLinkInstall": "https://github.com/MTVirux/Kaleidoscope/releases/download/0.0.0.1/Kaleidoscope.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/Kaleidoscope/releases/download/0.0.0.1/Kaleidoscope.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/Kaleidoscope/releases/download/testing_1.0.0.0/Kaleidoscope.zip",
+    "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png"
   }
 ]
