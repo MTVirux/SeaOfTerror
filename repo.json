@@ -19,7 +19,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "GlamorousTerror",
-    "AssemblyVersion": "1.1.0.2",
+    "AssemblyVersion": "1.2.1.0",
     "TestingAssemblyVersion": "1.2.1.0",
     "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
     "ApplicableVersion": "any",
@@ -28,10 +28,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
-    "LastUpdate": 1766256388,
-    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.1.0.2/GlamorousTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.1.0.2/GlamorousTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/testing_1.2.1.0/GlamorousTerror.zip",
+    "LastUpdate": 1766292941,
+    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.2.1.0/GlamorousTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.2.1.0/GlamorousTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.2.1.0/GlamorousTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png"
   },
   {
@@ -81,8 +81,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "CrystalTerror",
-    "AssemblyVersion": "1.5.0.1",
-    "TestingAssemblyVersion": "1.5.0.2",
+    "AssemblyVersion": "1.5.0.3",
+    "TestingAssemblyVersion": "1.5.0.3",
     "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -90,10 +90,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11037,
-    "LastUpdate": 1766161611,
+    "LastUpdate": 1766293087,
     "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.5.0.1/CrystalTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.5.0.1/CrystalTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/testing_1.5.0.2/CrystalTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/testing_1.5.0.3/CrystalTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png"
   },
   {
