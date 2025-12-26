@@ -112,8 +112,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "Kaleidoscope",
-    "AssemblyVersion": "0.0.0.1",
-    "TestingAssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
