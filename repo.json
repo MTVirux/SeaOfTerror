@@ -112,8 +112,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "Kaleidoscope",
-    "AssemblyVersion": "1.0.0.2",
-    "TestingAssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
+    "TestingAssemblyVersion": "1.0.0.3",
     "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -121,10 +121,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 69,
-    "LastUpdate": 1773082352,
+    "LastUpdate": 1773133153,
     "DownloadLinkInstall": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.0.0.2/Kaleidoscope.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.0.0.2/Kaleidoscope.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.0.0.2/Kaleidoscope.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/Kaleidoscope/releases/download/testing_1.0.0.3/Kaleidoscope.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png"
   }
 ]
