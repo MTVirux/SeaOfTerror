@@ -113,7 +113,7 @@
     ],
     "InternalName": "Kaleidoscope",
     "AssemblyVersion": "1.0.0.4",
-    "TestingAssemblyVersion": "1.0.0.4",
+    "TestingAssemblyVersion": "1.0.0.5",
     "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -121,10 +121,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 69,
-    "LastUpdate": 1773494228,
+    "LastUpdate": 1773776742,
     "DownloadLinkInstall": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.0.0.4/Kaleidoscope.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.0.0.4/Kaleidoscope.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.0.0.4/Kaleidoscope.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/Kaleidoscope/releases/download/testing_1.0.0.5/Kaleidoscope.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png"
   }
 ]
