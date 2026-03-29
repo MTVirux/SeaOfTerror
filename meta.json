@@ -16,7 +16,7 @@
     "plugins": ["Kaleidoscope"]
   },
   {
-    "repo": "https://raw.githubusercontent.com/MTVirux/DamageTerror/main/repo.json",
+    "repo": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/repo.json",
     "plugins": ["DamageTerror"]
   }
 ]
