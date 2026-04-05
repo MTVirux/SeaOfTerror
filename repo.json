@@ -152,10 +152,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775419959,
-    "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.5/DamageTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.5/DamageTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/testing_1.0.0.9/DamageTerror.zip",
+    "LastUpdate": 1775420171,
+    "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.9/DamageTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.9/DamageTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.9/DamageTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/main/images/icon.png"
   }
 ]
