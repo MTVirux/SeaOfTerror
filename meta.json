@@ -18,5 +18,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/repo.json",
     "plugins": ["DamageTerror"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/marzent/IINACT/refs/heads/main/repo.json".
+    "plugins": ["IINACT"]
   }
 ]
