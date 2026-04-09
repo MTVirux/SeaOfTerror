@@ -129,7 +129,7 @@
   },
   {
     "Author": "MTVirux",
-    "Name": "DamageTerror",
+    "Name": "Damage Terror",
     "Punchline": "Native ImGui damage meter overlay powered by IINACT",
     "Description": "DM @mtvirux on discord for assistance or bug reports.",
     "Tags": [
@@ -182,5 +182,34 @@
     "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.10.1.0/IINACT.zip",
     "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.10.1.0/IINACT.zip",
     "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.10.1.0/IINACT.zip"
+  },
+  {
+    "Author": "MTVirux",
+    "Name": "TempoTerror",
+    "Punchline": "Scrolling skill timeline overlay powered by IINACT.",
+    "Description": "Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking. Requires IINACT for network log data.\n\nDM @mtvirux on discord for assistance or bug reports.",
+    "Tags": [
+      "Terror",
+      "Timeline",
+      "Skills",
+      "Actions",
+      "IINACT",
+      "Sea Of Terror"
+    ],
+    "InternalName": "TempoTerror",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.2",
+    "RepoUrl": "https://github.com/MTVirux/TempoTerror",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 1775765133,
+    "DownloadLinkInstall": "https://github.com/MTVirux/TempoTerror/releases/download/0.0.0.1/TempoTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/TempoTerror/releases/download/0.0.0.1/TempoTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/testing_1.0.0.2/TempoTerror.zip",
+    "IconUrl": "https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png"
   }
 ]
