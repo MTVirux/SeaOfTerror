@@ -22,5 +22,9 @@
   {
     "repo": "https://raw.githubusercontent.com/marzent/IINACT/refs/heads/main/repo.json",
     "plugins": ["IINACT"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MTVirux/TempoTerror/refs/heads/main/repo.json",
+    "plugins": "TempoTerror"
   }
 ]
