@@ -48,7 +48,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "MarketTerror",
-    "AssemblyVersion": "1.0.0.23",
+    "AssemblyVersion": "1.0.0.24",
     "TestingAssemblyVersion": "1.0.0.24",
     "RepoUrl": "https://github.com/MTVirux/MarketTerror",
     "ApplicableVersion": "any",
@@ -57,9 +57,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775499967,
-    "DownloadLinkInstall": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.0.23/MarketTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.0.23/MarketTerror.zip",
+    "LastUpdate": 1775732456,
+    "DownloadLinkInstall": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.0.24/MarketTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.0.24/MarketTerror.zip",
     "DownloadLinkTesting": "https://github.com/MTVirux/MarketTerror/releases/download/testing_1.0.0.24/MarketTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png"
   },
@@ -144,7 +144,7 @@
     ],
     "InternalName": "DamageTerror",
     "AssemblyVersion": "1.0.0.36",
-    "TestingAssemblyVersion": "1.0.0.36",
+    "TestingAssemblyVersion": "1.0.0.37",
     "RepoUrl": "https://github.com/MTVirux/DamageTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -152,10 +152,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775700690,
+    "LastUpdate": 1775733031,
     "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.36/DamageTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.36/DamageTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.36/DamageTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/testing_1.0.0.37/DamageTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/main/images/icon.png"
   },
   {
