@@ -144,7 +144,7 @@
     ],
     "InternalName": "DamageTerror",
     "AssemblyVersion": "1.0.0.29",
-    "TestingAssemblyVersion": "1.0.0.33",
+    "TestingAssemblyVersion": "1.0.0.34",
     "RepoUrl": "https://github.com/MTVirux/DamageTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -152,10 +152,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775690878,
+    "LastUpdate": 1775696506,
     "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.29/DamageTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.29/DamageTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/testing_1.0.0.33/DamageTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/testing_1.0.0.34/DamageTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/main/images/icon.png"
   },
   {
