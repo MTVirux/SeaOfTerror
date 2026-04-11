@@ -43,7 +43,7 @@ All plugins will now appear in the **Available Plugins** tab of the Dalamud Plug
         </td>
     </tr>
     <tr>
-        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/DamageTerror/main/images/icon.png" width="64" alt="Damage Terror"></td>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png" width="64" alt="Damage Terror"></td>
         <td>
         <h3><a href="https://github.com/MTVirux/DamageTerror">Damage Terror</a></h3>
         Native ImGui damage meter overlay powered by IINACT.
