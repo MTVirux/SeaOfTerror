@@ -156,7 +156,7 @@
     "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.1.0.0/DamageTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.1.0.0/DamageTerror.zip",
     "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/1.1.0.0/DamageTerror.zip",
-    "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/main/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png"
   },
   {
     "Author": "Usagi",
@@ -206,10 +206,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775925218,
+    "LastUpdate": 1775925348,
     "DownloadLinkInstall": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/testing_1.0.0.8/TempoTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/testing_1.1.0.0/TempoTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png"
   }
 ]
