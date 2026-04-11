@@ -143,8 +143,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "DamageTerror",
-    "AssemblyVersion": "1.0.0.42",
-    "TestingAssemblyVersion": "1.0.0.42",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/MTVirux/DamageTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -152,10 +152,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775878178,
-    "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.42/DamageTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.42/DamageTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/1.0.0.42/DamageTerror.zip",
+    "LastUpdate": 1775925105,
+    "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.1.0.0/DamageTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.1.0.0/DamageTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/1.1.0.0/DamageTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/main/images/icon.png"
   },
   {
@@ -198,7 +198,7 @@
     ],
     "InternalName": "TempoTerror",
     "AssemblyVersion": "1.0.0.7",
-    "TestingAssemblyVersion": "1.0.0.7",
+    "TestingAssemblyVersion": "1.1.0.0",
     "RepoUrl": "https://github.com/MTVirux/TempoTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -206,10 +206,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775869693,
+    "LastUpdate": 1775925218,
     "DownloadLinkInstall": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/testing_1.0.0.8/TempoTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png"
   }
 ]
