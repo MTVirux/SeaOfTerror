@@ -197,7 +197,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "TempoTerror",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "1.0.0.7",
     "TestingAssemblyVersion": "1.0.0.7",
     "RepoUrl": "https://github.com/MTVirux/TempoTerror",
     "ApplicableVersion": "any",
@@ -206,10 +206,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1775868630,
-    "DownloadLinkInstall": "https://github.com/MTVirux/TempoTerror/releases/download/0.0.0.1/TempoTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/TempoTerror/releases/download/0.0.0.1/TempoTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/testing_1.0.0.7/TempoTerror.zip",
+    "LastUpdate": 1775869693,
+    "DownloadLinkInstall": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/1.0.0.7/TempoTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png"
   }
 ]
