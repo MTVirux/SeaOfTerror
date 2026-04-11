@@ -82,7 +82,7 @@
     ],
     "InternalName": "CrystalTerror",
     "AssemblyVersion": "1.6.0.8",
-    "TestingAssemblyVersion": "1.6.0.8",
+    "TestingAssemblyVersion": "1.6.0.9",
     "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -90,10 +90,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11037,
-    "LastUpdate": 1772288105,
+    "LastUpdate": 1775923337,
     "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.6.0.8/CrystalTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.6.0.8/CrystalTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/1.6.0.8/CrystalTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/testing_1.6.0.9/CrystalTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png"
   },
   {
