@@ -1,51 +1,116 @@
+<div align="center">
+
 # Sea of Terror
 
-This is a fork of the Dalamud plugin repo automations of SeaOfStars for my plugins.
+**Custom Dalamud plugin repository for FFXIV**
 
-## Installing
-- Enter `/xlsettings` in the chat window and go to the Experimental tab in the opening window.
-- **Skip below the DevPlugins section to the Custom Plugin Repositories section.**
-- Copy and paste the repo.json link into the first free text input field.
-```
-https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json
-```
-- Click on the + button and make sure the checkmark beside the new field is set afterwards.
-- **Click on the Save-icon in the bottom right.**
+[![License](https://img.shields.io/github/license/MTVirux/SeaOfTerror?style=flat-square)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/MTVirux/SeaOfTerror?style=flat-square)](https://github.com/MTVirux/SeaOfTerror/commits/main)
+![Plugins](https://img.shields.io/badge/plugins-7-blue?style=flat-square)
 
-Following these steps, you should be able to see all contained plugins in the Available Plugins tab in the Dalamud Plugin Installer.
-No Plugins will be installed, you have just made them available. You can now select which of these plugins you actually want to install.
-# My Plugins
+</div>
 
-## [Kaleidoscope](https://github.com/MTVirux/Kaleidoscope)
-Financial and inventory tracking HUD for FFXIV
+---
 
-## [Damage Terror](https://github.com/MTVirux/DamageTerror)
-Native ImGui damage meter overlay powered by IINACT.
+<details>
+<summary><strong>Installing</strong></summary>
 
-## [Crystal Terror](https://github.com/MTVirux/CrystalTerror)
-Automatic management of auto-retainer ventures to maximixe elemental crystals output.
+<br>
 
-## [TempoTerror](https://github.com/MTVirux/TempoTerror)
-Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking.
-Requires IINACT for network log data.
+1. Enter `/xlsettings` in the chat window and go to the **Experimental** tab.
+2. Scroll past the DevPlugins section to **Custom Plugin Repositories**.
+3. Paste the following URL into the first free text field:
+   ```
+   https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json
+   ```
+4. Click the **+** button and make sure the checkmark beside the new field is set.
+5. Click the **Save** icon in the bottom right.
 
+All plugins will now appear in the **Available Plugins** tab of the Dalamud Plugin Installer.
 
-# Modified
+</details>
 
-## [Market Terror](https://github.com/MTVirux/MarketTerror) | [(Original Repo by fmauNeko)](https://github.com/fmauNeko/MarketBoardPlugin)
-Modifications from the original:
-- Lifestream integration
-    - Clicking a listing will teleport you to that world's marketboard
-- Modfied Charts tab with detailed market data from Unviersallis and FFXIVMT
+---
 
-## [Glamorous Terror](https://github.com/MTVirux/GlamorousTerror) | [(Original Repo by Ottermandias)](https://github.com/Ottermandias/Glamourer)
-Modifications from the original include:
-- Wildcard support
-- Unlocked cheat mode -> Renamed to Fun Modes and toggles have been added
-- Preview on equipment on mouse hover from the combo boxes
+## My Plugins
 
-# External
+<table>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png" width="64" alt="Kaleidoscope"></td>
+        <td>
+        <h3><a href="https://github.com/MTVirux/Kaleidoscope">Kaleidoscope</a></h3>
+        Financial and inventory tracking HUD for FFXIV.
+        </td>
+    </tr>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/DamageTerror/main/images/icon.png" width="64" alt="Damage Terror"></td>
+        <td>
+        <h3><a href="https://github.com/MTVirux/DamageTerror">Damage Terror</a></h3>
+        Native ImGui damage meter overlay powered by IINACT.
+        </td>
+    </tr>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png" width="64" alt="Crystal Terror"></td>
+        <td>
+        <h3><a href="https://github.com/MTVirux/CrystalTerror">Crystal Terror</a></h3>
+        Automatic management of auto-retainer ventures to maximize elemental crystals output.
+        </td>
+    </tr>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png" width="64" alt="TempoTerror"></td>
+        <td>
+        <h3><a href="https://github.com/MTVirux/TempoTerror">TempoTerror</a></h3>
+        Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking. Requires IINACT for network log data.
+        </td>
+    </tr>
+</table>
 
-## [IINACT](https://github.com/marzent/IINACT)
-A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of OverlayPlugin. Provides network log parsing and overlay support; required by `Damage Terror` and `TempoTerror` for real-time data.
+---
+
+## Modified
+
+<table>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png" width="64" alt="Market Terror"></td>
+        <td>
+        <h3><a href="https://github.com/MTVirux/MarketTerror">Market Terror</a> · <sub><a href="https://github.com/fmauNeko/MarketBoardPlugin">Original by fmauNeko</a></sub></h3>
+        <ul>
+        <li>Lifestream integration — clicking a listing teleports you to that world's marketboard</li>
+        <li>Modified Charts tab with detailed market data from Universalis and FFXIVMT</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png" width="64" alt="Glamorous Terror"></td>
+        <td>
+        <h3><a href="https://github.com/MTVirux/GlamorousTerror">Glamorous Terror</a> · <sub><a href="https://github.com/Ottermandias/Glamourer">Original by Ottermandias</a></sub></h3>
+        <ul>
+        <li>Wildcard support</li>
+        <li>Unlocked cheat mode → Renamed to Fun Modes with toggles</li>
+        <li>Preview equipment on mouse hover from the combo boxes</li>
+        </ul>
+        </td>
+    </tr>
+</table>
+
+---
+
+## External
+
+<table>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png" width="64" alt="IINACT"></td>
+        <td>
+        <h3><a href="https://github.com/marzent/IINACT">IINACT</a></h3>
+        ACT-like parsing environment with a modified OverlayPlugin port. Provides network log parsing and overlay support
+        Required by <strong>Damage Terror</strong> and <strong>TempoTerror</strong>.
+        </td>
+    </tr>
+</table>
+
+---
+
+<div align="center">
+<sub>DM <strong>@mtvirux</strong> on Discord for assistance or bug reports.</sub>
+</div>
 
