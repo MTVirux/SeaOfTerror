@@ -27,7 +27,7 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 233,
+    "DownloadCount": 234,
     "LastUpdate": 1776727110,
     "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.0/GlamorousTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.0/GlamorousTerror.zip",
@@ -151,11 +151,11 @@
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 118,
-    "LastUpdate": 1776877747,
+    "DownloadCount": 119,
+    "LastUpdate": 1776877871,
     "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.0.1/DamageTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.0.1/DamageTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.0.1/DamageTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/testing_1.2.0.2/DamageTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png"
   },
   {
