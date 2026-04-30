@@ -162,8 +162,8 @@
     "Author": "Usagi",
     "Name": "IINACT",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.10.1.1",
-    "TestingAssemblyVersion": "2.10.1.1",
+    "AssemblyVersion": "2.10.1.2",
+    "TestingAssemblyVersion": "2.10.1.2",
     "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marzent/IINACT",
@@ -173,15 +173,15 @@
       "ACT",
       "Sea Of Terror"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
     "Punchline": "A parsing plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.10.1.1/IINACT.zip",
-    "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.10.1.1/IINACT.zip",
-    "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.10.1.1/IINACT.zip"
+    "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.10.1.2/IINACT.zip",
+    "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.10.1.2/IINACT.zip",
+    "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.10.1.2/IINACT.zip"
   },
   {
     "Author": "MTVirux",
