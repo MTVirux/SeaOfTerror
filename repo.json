@@ -19,8 +19,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "GlamorousTerror",
-    "AssemblyVersion": "1.6.1.3",
-    "TestingAssemblyVersion": "1.6.1.6",
+    "AssemblyVersion": "1.6.1.7",
+    "TestingAssemblyVersion": "1.6.1.7",
     "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -28,10 +28,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 371,
-    "LastUpdate": 1777671301,
-    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.3/GlamorousTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.3/GlamorousTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/testing_1.6.1.6/GlamorousTerror.zip",
+    "LastUpdate": 1777676772,
+    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.7/GlamorousTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.7/GlamorousTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.7/GlamorousTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png"
   },
   {
@@ -112,8 +112,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "Kaleidoscope",
-    "AssemblyVersion": "1.1.0.0",
-    "TestingAssemblyVersion": "1.1.1.2",
+    "AssemblyVersion": "1.1.1.4",
+    "TestingAssemblyVersion": "1.1.1.4",
     "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -121,10 +121,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 23,
-    "LastUpdate": 1777561287,
-    "DownloadLinkInstall": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.1.0.0/Kaleidoscope.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.1.0.0/Kaleidoscope.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/Kaleidoscope/releases/download/testing_1.1.1.2/Kaleidoscope.zip",
+    "LastUpdate": 1777677649,
+    "DownloadLinkInstall": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.1.1.4/Kaleidoscope.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.1.1.4/Kaleidoscope.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/Kaleidoscope/releases/download/1.1.1.4/Kaleidoscope.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png"
   },
   {
@@ -198,7 +198,7 @@
     ],
     "InternalName": "TempoTerror",
     "AssemblyVersion": "1.1.0.0",
-    "TestingAssemblyVersion": "1.1.0.1",
+    "TestingAssemblyVersion": "1.1.0.3",
     "RepoUrl": "https://github.com/MTVirux/TempoTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -206,10 +206,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 13,
-    "LastUpdate": 1777519060,
+    "LastUpdate": 1777677984,
     "DownloadLinkInstall": "https://github.com/MTVirux/TempoTerror/releases/download/1.1.0.0/TempoTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/TempoTerror/releases/download/1.1.0.0/TempoTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/1.1.0.0/TempoTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TempoTerror/releases/download/testing_1.1.0.2/TempoTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png"
   }
 ]
