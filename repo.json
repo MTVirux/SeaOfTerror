@@ -20,7 +20,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "GlamorousTerror",
-    "AssemblyVersion": "1.6.1.10",
+    "AssemblyVersion": "1.6.1.15",
     "TestingAssemblyVersion": "1.6.1.15",
     "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
     "ApplicableVersion": "any",
@@ -29,10 +29,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 581,
-    "LastUpdate": 1778061735,
-    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.10/GlamorousTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.10/GlamorousTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/testing_1.6.1.15/GlamorousTerror.zip",
+    "LastUpdate": 1779079785,
+    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.15/GlamorousTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.15/GlamorousTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.15/GlamorousTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png"
   },
   {
