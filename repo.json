@@ -144,8 +144,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "DamageTerror",
-    "AssemblyVersion": "1.2.1.10",
-    "TestingAssemblyVersion": "1.2.1.10",
+    "AssemblyVersion": "1.2.1.11",
+    "TestingAssemblyVersion": "1.2.1.11",
     "RepoUrl": "https://github.com/MTVirux/DamageTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -153,10 +153,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 238,
-    "LastUpdate": 1780421276,
+    "LastUpdate": 1780514398,
     "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.1.10/DamageTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.1.10/DamageTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.1.10/DamageTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/testing_1.2.1.11/DamageTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png"
   },
   {
