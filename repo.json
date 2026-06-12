@@ -20,8 +20,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "GlamorousTerror",
-    "AssemblyVersion": "1.6.1.18",
-    "TestingAssemblyVersion": "1.6.1.23",
+    "AssemblyVersion": "1.6.1.24",
+    "TestingAssemblyVersion": "1.6.1.24",
     "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -29,10 +29,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 718,
-    "LastUpdate": 1781112375,
-    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.18/GlamorousTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.18/GlamorousTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/testing_1.6.1.23/GlamorousTerror.zip",
+    "LastUpdate": 1781280058,
+    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.24/GlamorousTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.24/GlamorousTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.6.1.24/GlamorousTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png"
   },
   {
@@ -50,7 +50,7 @@
     ],
     "InternalName": "MarketTerror",
     "AssemblyVersion": "1.0.1.0",
-    "TestingAssemblyVersion": "1.0.1.0",
+    "TestingAssemblyVersion": "1.0.1.1",
     "RepoUrl": "https://github.com/MTVirux/MarketTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -58,10 +58,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 130,
-    "LastUpdate": 1777645386,
+    "LastUpdate": 1781280032,
     "DownloadLinkInstall": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.1.0/MarketTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.1.0/MarketTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/MarketTerror/releases/download/testing_1.0.1.0/MarketTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/MarketTerror/releases/download/testing_1.0.1.1/MarketTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png"
   },
   {
@@ -82,8 +82,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "CrystalTerror",
-    "AssemblyVersion": "1.7.0.2",
-    "TestingAssemblyVersion": "1.7.0.2",
+    "AssemblyVersion": "1.7.0.4",
+    "TestingAssemblyVersion": "1.7.0.4",
     "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -91,10 +91,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 196,
-    "LastUpdate": 1777675348,
-    "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.2/CrystalTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.2/CrystalTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.2/CrystalTerror.zip",
+    "LastUpdate": 1781280618,
+    "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.4/CrystalTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.4/CrystalTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.4/CrystalTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png"
   },
   {
