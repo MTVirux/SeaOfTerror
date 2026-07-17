@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/github/license/MTVirux/SeaOfTerror?style=flat-square)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/MTVirux/SeaOfTerror?style=flat-square)](https://github.com/MTVirux/SeaOfTerror/commits/main)
-![Plugins](https://img.shields.io/badge/plugins-7-blue?style=flat-square)
+![Plugins](https://img.shields.io/badge/plugins-8-blue?style=flat-square)
 
 </div>
 
@@ -61,6 +61,13 @@ All plugins will now appear in the **Available Plugins** tab of the Dalamud Plug
         <td>
         <h3><a href="https://github.com/MTVirux/TempoTerror">TempoTerror</a></h3>
         Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking. Requires IINACT for network log data.
+        </td>
+    </tr>
+    <tr>
+        <td width="80" align="center"><img src="https://raw.githubusercontent.com/MTVirux/RelicTerror/main/images/icon.png" width="64" alt="RelicTerror"></td>
+        <td>
+        <h3><a href="https://github.com/MTVirux/RelicTerror">RelicTerror</a></h3>
+        Track relic weapon quest progress across all expansions.
         </td>
     </tr>
 </table>

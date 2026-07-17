@@ -26,5 +26,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MTVirux/TempoTerror/refs/heads/main/repo.json",
     "plugins": ["TempoTerror"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MTVirux/RelicTerror/main/repo.json",
+    "plugins": ["RelicTerror"]
   }
 ]
