@@ -228,8 +228,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "RelicTerror",
-    "AssemblyVersion": "1.0.0.2",
-    "TestingAssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
+    "TestingAssemblyVersion": "1.0.0.3",
     "RepoUrl": "https://github.com/MTVirux/RelicTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -237,10 +237,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3,
-    "LastUpdate": 1784335498,
-    "DownloadLinkInstall": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.2/RelicTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.2/RelicTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.2/RelicTerror.zip",
+    "LastUpdate": 1784708951,
+    "DownloadLinkInstall": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.3/RelicTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.3/RelicTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.3/RelicTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/RelicTerror/main/images/icon.png"
   }
 ]
