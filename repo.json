@@ -50,7 +50,7 @@
     ],
     "InternalName": "MarketTerror",
     "AssemblyVersion": "1.0.1.5",
-    "TestingAssemblyVersion": "1.0.1.5",
+    "TestingAssemblyVersion": "1.0.1.6",
     "RepoUrl": "https://github.com/MTVirux/MarketTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -58,10 +58,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 163,
-    "LastUpdate": 1785132948,
+    "LastUpdate": 1785319427,
     "DownloadLinkInstall": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.1.5/MarketTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/MarketTerror/releases/download/1.0.1.5/MarketTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/MarketTerror/releases/download/testing_1.0.1.5/MarketTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/MarketTerror/releases/download/testing_1.0.1.6/MarketTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png"
   },
   {
