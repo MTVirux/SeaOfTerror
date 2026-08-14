@@ -163,8 +163,8 @@
     "Author": "Usagi",
     "Name": "IINACT",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.10.3.5",
-    "TestingAssemblyVersion": "2.10.3.5",
+    "AssemblyVersion": "2.10.3.6",
+    "TestingAssemblyVersion": "2.10.3.6",
     "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/marzent/IINACT",
@@ -180,9 +180,9 @@
     "Punchline": "A parsing plugin.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.10.3.5/IINACT.zip",
-    "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.10.3.5/IINACT.zip",
-    "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.10.3.5/IINACT.zip"
+    "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.10.3.6/IINACT.zip",
+    "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.10.3.6/IINACT.zip",
+    "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.10.3.6/IINACT.zip"
   },
   {
     "Author": "MTVirux",
@@ -258,7 +258,7 @@
     ],
     "InternalName": "TerrorTweaks",
     "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/MTVirux/TerrorTweaks",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -266,10 +266,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1786731796,
+    "LastUpdate": 1786732764,
     "DownloadLinkInstall": "https://github.com/MTVirux/TerrorTweaks/releases/download/1.0.0.0/TerrorTweaks.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/TerrorTweaks/releases/download/1.0.0.0/TerrorTweaks.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/TerrorTweaks/releases/download/testing_1.0.0.0/TerrorTweaks.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TerrorTweaks/releases/download/testing_1.0.0.1/TerrorTweaks.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/TerrorTweaks/main/images/icon.png"
   }
 ]
