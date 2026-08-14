@@ -242,5 +242,34 @@
     "DownloadLinkUpdate": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.5/RelicTerror.zip",
     "DownloadLinkTesting": "https://github.com/MTVirux/RelicTerror/releases/download/1.0.0.5/RelicTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/RelicTerror/main/images/icon.png"
+  },
+  {
+    "Author": "MTVirux",
+    "Name": "TerrorTweaks",
+    "Punchline": "A collection of small quality-of-life tweaks for FFXIV.",
+    "Description": "A collection of small quality-of-life tweaks for FFXIV.\n\nDM @mtvirux on discord for assistance or bug reports.",
+    "Tags": [
+      "Tweaks",
+      "QoL",
+      "ContextMenu",
+      "Clipboard",
+      "Terror",
+      "Sea Of Terror"
+    ],
+    "InternalName": "TerrorTweaks",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/MTVirux/TerrorTweaks",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 1786731796,
+    "DownloadLinkInstall": "https://github.com/MTVirux/TerrorTweaks/releases/download/1.0.0.0/TerrorTweaks.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/TerrorTweaks/releases/download/1.0.0.0/TerrorTweaks.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TerrorTweaks/releases/download/testing_1.0.0.0/TerrorTweaks.zip",
+    "IconUrl": "https://raw.githubusercontent.com/MTVirux/TerrorTweaks/main/images/icon.png"
   }
 ]
