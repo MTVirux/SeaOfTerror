@@ -34,5 +34,9 @@
   {
     "repo": "https://raw.githubusercontent.com/MTVirux/TerrorTweaks/main/repo.json",
     "plugins": ["TerrorTweaks"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/MTVirux/PolyglotTerror/main/repo.json",
+    "plugins": ["PolyglotTerror"]
   }
 ]
