@@ -286,8 +286,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "PolyglotTerror",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.2",
     "RepoUrl": "https://github.com/MTVirux/PolyglotTerror",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -295,10 +295,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3,
-    "LastUpdate": 1787493155,
-    "DownloadLinkInstall": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.0/PolyglotTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.0/PolyglotTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/PolyglotTerror/releases/download/testing_1.0.0.1/PolyglotTerror.zip",
+    "LastUpdate": 1787494177,
+    "DownloadLinkInstall": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/PolyglotTerror/main/images/icon.png"
   }
 ]
