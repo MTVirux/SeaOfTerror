@@ -295,10 +295,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 3,
-    "LastUpdate": 1787494177,
+    "LastUpdate": 1787494256,
     "DownloadLinkInstall": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/PolyglotTerror/releases/download/testing_1.0.0.2/PolyglotTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/PolyglotTerror/main/images/icon.png"
   }
 ]
