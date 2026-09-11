@@ -257,8 +257,8 @@
       "Sea Of Terror"
     ],
     "InternalName": "TerrorTweaks",
-    "AssemblyVersion": "1.0.0.6",
-    "TestingAssemblyVersion": "1.0.0.6",
+    "AssemblyVersion": "1.0.0.7",
+    "TestingAssemblyVersion": "1.0.0.7",
     "RepoUrl": "https://github.com/MTVirux/TerrorTweaks",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -266,10 +266,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 11,
-    "LastUpdate": 1786836936,
+    "LastUpdate": 1789162619,
     "DownloadLinkInstall": "https://github.com/MTVirux/TerrorTweaks/releases/download/1.0.0.6/TerrorTweaks.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/TerrorTweaks/releases/download/1.0.0.6/TerrorTweaks.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/TerrorTweaks/releases/download/1.0.0.6/TerrorTweaks.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/TerrorTweaks/releases/download/testing_1.0.0.7/TerrorTweaks.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/TerrorTweaks/main/images/icon.png"
   },
   {
