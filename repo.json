@@ -82,7 +82,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "CrystalTerror",
-    "AssemblyVersion": "1.7.0.9",
+    "AssemblyVersion": "1.7.0.11",
     "TestingAssemblyVersion": "1.7.0.11",
     "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
     "ApplicableVersion": "any",
@@ -91,10 +91,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 261,
-    "LastUpdate": 1792447967,
-    "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.9/CrystalTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.9/CrystalTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/testing_1.7.0.11/CrystalTerror.zip",
+    "LastUpdate": 1792448994,
+    "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.11/CrystalTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.11/CrystalTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.11/CrystalTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png"
   },
   {
