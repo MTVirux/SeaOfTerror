@@ -20,7 +20,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "GlamorousTerror",
-    "AssemblyVersion": "1.7.0.2",
+    "AssemblyVersion": "1.7.0.4",
     "TestingAssemblyVersion": "1.7.0.4",
     "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
     "ApplicableVersion": "any",
@@ -29,10 +29,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 952,
-    "LastUpdate": 1789544710,
-    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.7.0.2/GlamorousTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.7.0.2/GlamorousTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/testing_1.7.0.4/GlamorousTerror.zip",
+    "LastUpdate": 1794675758,
+    "DownloadLinkInstall": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.7.0.4/GlamorousTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.7.0.4/GlamorousTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/GlamorousTerror/releases/download/1.7.0.4/GlamorousTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png"
   },
   {
@@ -82,7 +82,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "CrystalTerror",
-    "AssemblyVersion": "1.7.0.11",
+    "AssemblyVersion": "1.7.0.12",
     "TestingAssemblyVersion": "1.7.0.12",
     "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
     "ApplicableVersion": "any",
@@ -91,10 +91,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 288,
-    "LastUpdate": 1792535138,
-    "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.11/CrystalTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.11/CrystalTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/testing_1.7.0.12/CrystalTerror.zip",
+    "LastUpdate": 1794675729,
+    "DownloadLinkInstall": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.12/CrystalTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.12/CrystalTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/CrystalTerror/releases/download/1.7.0.12/CrystalTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png"
   },
   {
@@ -144,7 +144,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "DamageTerror",
-    "AssemblyVersion": "1.2.1.18",
+    "AssemblyVersion": "1.3.0.0",
     "TestingAssemblyVersion": "1.3.0.0",
     "RepoUrl": "https://github.com/MTVirux/DamageTerror",
     "ApplicableVersion": "any",
@@ -153,7 +153,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 529,
-    "LastUpdate": 1789162976,
+    "LastUpdate": 1794675656,
     "DownloadLinkInstall": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.1.18/DamageTerror.zip",
     "DownloadLinkUpdate": "https://github.com/MTVirux/DamageTerror/releases/download/1.2.1.18/DamageTerror.zip",
     "DownloadLinkTesting": "https://github.com/MTVirux/DamageTerror/releases/download/testing_1.3.0.0/DamageTerror.zip",
@@ -286,7 +286,7 @@
       "Sea Of Terror"
     ],
     "InternalName": "PolyglotTerror",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "TestingAssemblyVersion": "1.0.0.2",
     "RepoUrl": "https://github.com/MTVirux/PolyglotTerror",
     "ApplicableVersion": "any",
@@ -295,10 +295,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 16,
-    "LastUpdate": 1787494256,
-    "DownloadLinkInstall": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
-    "DownloadLinkUpdate": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.1/PolyglotTerror.zip",
-    "DownloadLinkTesting": "https://github.com/MTVirux/PolyglotTerror/releases/download/testing_1.0.0.2/PolyglotTerror.zip",
+    "LastUpdate": 1794675748,
+    "DownloadLinkInstall": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.2/PolyglotTerror.zip",
+    "DownloadLinkUpdate": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.2/PolyglotTerror.zip",
+    "DownloadLinkTesting": "https://github.com/MTVirux/PolyglotTerror/releases/download/1.0.0.2/PolyglotTerror.zip",
     "IconUrl": "https://raw.githubusercontent.com/MTVirux/PolyglotTerror/main/images/icon.png"
   }
 ]
